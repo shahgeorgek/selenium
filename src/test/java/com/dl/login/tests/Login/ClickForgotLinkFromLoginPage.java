@@ -1,7 +1,7 @@
 package com.dl.login.tests.Login;
 
 import com.dl.login.webpages.Login.ForgotLandingPage;
-import com.dl.login.webpages.Login.HomePage;
+import com.dl.login.webpages.Login.HomePage.HomePage;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;

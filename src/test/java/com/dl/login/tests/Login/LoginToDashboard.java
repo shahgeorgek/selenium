@@ -1,6 +1,6 @@
 package com.dl.login.tests.Login;
 
-import com.dl.login.webpages.Login.HomePage;
+import com.dl.login.webpages.Login.HomePage.HomePage;
 import org.junit.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
