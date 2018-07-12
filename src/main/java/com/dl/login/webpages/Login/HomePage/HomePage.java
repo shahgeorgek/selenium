@@ -19,7 +19,7 @@ public class HomePage {
 
     //page URL
 
-    private static String PAGE_URL ="https://my-digitallife.att.com/dl";
+    private static String PAGE_URL ="https://my-digitallife-qa2.stage.att.com/dl";
 
 
     //CONSTRUCTOR
